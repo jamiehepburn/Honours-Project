@@ -1,4 +1,6 @@
 # Honours-Project
-Repository for all code for 2021 Honours Project: Machine and Deep Learning applied to Galaxy Kinematics and Morphology
+Repository for all code for 2021 Honours Project: Visual Classification of Galaxy Kinematics using Bayesian Neural Networks
+
 
 Jamie Hepburn
+SID:480273835
